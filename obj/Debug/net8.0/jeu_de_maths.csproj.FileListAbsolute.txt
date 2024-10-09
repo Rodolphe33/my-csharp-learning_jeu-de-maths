@@ -1,0 +1,14 @@
+/var/home/rodolphe/Documents/projet/projet_c#/jeu_de_maths/bin/Debug/net8.0/jeu_de_maths
+/var/home/rodolphe/Documents/projet/projet_c#/jeu_de_maths/bin/Debug/net8.0/jeu_de_maths.deps.json
+/var/home/rodolphe/Documents/projet/projet_c#/jeu_de_maths/bin/Debug/net8.0/jeu_de_maths.runtimeconfig.json
+/var/home/rodolphe/Documents/projet/projet_c#/jeu_de_maths/bin/Debug/net8.0/jeu_de_maths.dll
+/var/home/rodolphe/Documents/projet/projet_c#/jeu_de_maths/bin/Debug/net8.0/jeu_de_maths.pdb
+/var/home/rodolphe/Documents/projet/projet_c#/jeu_de_maths/obj/Debug/net8.0/jeu_de_maths.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/rodolphe/Documents/projet/projet_c#/jeu_de_maths/obj/Debug/net8.0/jeu_de_maths.AssemblyInfoInputs.cache
+/var/home/rodolphe/Documents/projet/projet_c#/jeu_de_maths/obj/Debug/net8.0/jeu_de_maths.AssemblyInfo.cs
+/var/home/rodolphe/Documents/projet/projet_c#/jeu_de_maths/obj/Debug/net8.0/jeu_de_maths.csproj.CoreCompileInputs.cache
+/var/home/rodolphe/Documents/projet/projet_c#/jeu_de_maths/obj/Debug/net8.0/jeu_de_maths.dll
+/var/home/rodolphe/Documents/projet/projet_c#/jeu_de_maths/obj/Debug/net8.0/refint/jeu_de_maths.dll
+/var/home/rodolphe/Documents/projet/projet_c#/jeu_de_maths/obj/Debug/net8.0/jeu_de_maths.pdb
+/var/home/rodolphe/Documents/projet/projet_c#/jeu_de_maths/obj/Debug/net8.0/jeu_de_maths.genruntimeconfig.cache
+/var/home/rodolphe/Documents/projet/projet_c#/jeu_de_maths/obj/Debug/net8.0/ref/jeu_de_maths.dll
